@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: secret-test-gh-0327-repository
+spec:
+  url: https://github.com/stephanie-cy/secret-test-gh-0327
